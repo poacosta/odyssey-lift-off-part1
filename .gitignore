@@ -4,3 +4,8 @@ node_modules
 */**/dist
 */**/types.ts
 */**/__generated__
+/.idea/vcs.xml
+/.idea/odyssey-lift-off-part1.iml
+/.idea/modules.xml
+/.idea/aws.xml
+/.idea/.gitignore
